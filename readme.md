@@ -1,5 +1,5 @@
 # Simple Terminal Snake Game (Python 3)
-![main pic]("assets/ss-game.png")
+![main pic](assets/ss-game.png)
 
 this is my first python project i try to make without using any tutorials. this project is a simple terminal game with minimal external python library. Don't expect anything fancy here, i'm too lazy for refactoring any things
 
